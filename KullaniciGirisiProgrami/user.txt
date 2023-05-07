@@ -1,0 +1,5 @@
+kullanıcıAdı,parola,adSoyad,yas,okul,bolum
+ali,Ali12345,Ali Veli,21,ODTU,Bilgisayar muhendisligi
+hasan,Hasan12345,Hasan Allı,27,Düzce Üniversitesi,PDR
+axe,Axe12345,Ahmet Ari,23,Ankara Üniversitesi,Su ürünleri
+emre,Emre12345,Emre Asil,36,Marmara Üniversitesi,Güzel Sanatlar
